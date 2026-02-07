@@ -2,7 +2,8 @@
 
 A high-performance, visually stunning circular widget spinner built with **SVG** and **GSAP**. This project features a smooth, interactive carousel that rotates widgets in a circular layout, perfect for portfolios, feature highlights, or creative navigation.
 
-![Project Preview](https://via.placeholder.com/800x400.png?text=Oceanfilms+CircularWidgets+Interface) *<!-- Note to User: Replace this with an actual screenshot of your project -->*
+<img width="1920" height="1080" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/f2be2286-7d4a-4956-81b6-323e264312f6" />
+
 
 ## ✨ Features
 
